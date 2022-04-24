@@ -1,0 +1,19 @@
+/*Estilo da pagina index.html*/
+
+body {text-align:center;
+    font-family:Open Sans, sans-serif;
+    background-color:gray
+}
+
+.container {
+display:flex;
+flex-flow: row;
+justify-content:center;
+
+}
+   
+.menu li {
+display: inline;
+
+}
+    
