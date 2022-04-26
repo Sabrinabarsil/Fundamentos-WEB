@@ -1,19 +1,60 @@
 /*Estilo da pagina index.html*/
 
-body {text-align:center;
-    font-family:Open Sans, sans-serif;
-    background-color:gray
+.center  {
+text-align: center;
+
+}
+
+.menu li {
+display: inline;
+padding: 15px;
+
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 120%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.menu li a:hover {
+ color: cadetblue;
 }
 
 .container {
-display:flex;
-flex-flow: row;
-justify-content:center;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around ;
+    align-items:flex-start;
 
 }
-   
-.menu li {
-display: inline;
+
+.p-size{
+padding: 50px;
 
 }
+
+
+
+
+
+
+/*Estilo da pagina galeria.html*/
+
+
+
+
+
+
+
+
+
+
+
+/*Estilo da pagina contato.html*/
+
+
+
     
